@@ -56,6 +56,5 @@ The project is simulated using Wokwi.
 ## Files
 
 - `sketch.ino` — ESP32 source code
-- `diagram.json` — Wokwi simulation configuration
 - `circuit-diagram.png` — Circuit diagram
 - `Task-1-Report.pdf` — Project report
